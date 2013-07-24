@@ -3,8 +3,7 @@
 /lib
 /classes
 /native
-/.lein-failures
 /checkouts
-/.lein-deps-sum
-/.lein-plugins/*
+/.lein-*
 /target/*
+nohup.out
